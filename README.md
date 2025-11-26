@@ -6,7 +6,7 @@ Este projeto consiste em um sistema web para o gerenciamento de uma Unidade de P
 
 * **Banco de Dados:** PostgreSQL
 * **Backend:** Python (Flask)
-* **Frontend:** React (Vite)
+* **Frontend:** React (Vite + Tailwind)
 
 ---
 
